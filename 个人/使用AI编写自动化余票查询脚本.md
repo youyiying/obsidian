@@ -22,6 +22,7 @@
 [[Chatgpt提问模板]]
 
 ### 演示
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/202312142352564.png)
 
 ### 结语
 
