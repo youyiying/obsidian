@@ -38,7 +38,7 @@ curl -X POST 'https://www.niankawang.com/ec/router' \
     }
 ]
 ```
-# 发送微信通知接口、
+# 发送微信通知接口
 ## 提交地址
 http://www.pushplus.plus/send
 ## 提交JSON内容
@@ -53,9 +53,9 @@ http://www.pushplus.plus/send
 # 华为云函数模板
 ``` python
 def my_initializer(context):
-    print 'hello world!'
+    # 编写代码
 ```
 # 参考华为云函数模板编写python脚本
 1. 发送查询请求
-2. 将收到的JSON格式的响应进行遍历
+2. 将响应内容进行jie'xi收到的JSON格式的响应进行遍历
 3. 从每个项目中提取信息showTime、remainCount，进行条件判断，检查showTime是否为'1940'，以及是否有余票（remainCount > 0），如果条件满足，发送到通知。
