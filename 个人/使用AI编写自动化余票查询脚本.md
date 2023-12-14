@@ -6,15 +6,45 @@
 ### 准备工作
 
 为了实现这个自动查询的脚本，需要使用Proxypin抓包工具，获取所需数据。打开厦门旅游年卡小程序，进行了一次请求包的抓取，成功地获取了一份请求包的详细内容。
+这里我们导出cURL命令格式
 ![632shots_so.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/202312150000181.png)
 
 ### 分析抓包数据
 
-通过Proxypin抓包工具获取到的数据包含了大量信息，但我们主要关注的是JSON数据。其中，关键字段如showTime、remainCount，将成为我们编写脚本的基础数据。
-
+通过Proxypin抓包工具获取到的数据包含了大量信息，但我们主要关注的是JSON数据。其中，关键字段如班次（showTime）、余票数量（remainCount），将成为我们编写脚本的基础数据。
+```json
+[
+    {
+        "seqId": 50098,
+        "dataState": "1",
+        "sendState": "0",
+        "createTime": "20231213162050",
+        "updateTime": "20231214160503",
+        "showId": "cd208ab48c3a5ed2e45f4a0d6ebe281a",
+        "showCode": "19：05班次",
+        "showName": "19：05班次",
+        "wareApptId": "914BDC495F1C4E88BAF40DB4BF168B9F",
+        "sceneId": "DF3810BA57DE42DEA1953107F01F937A",
+        "programmeId": "64D3205C266846149C11DEE4A9D6CAC5",
+        "apptDate": "20231215",
+        "showTime": "1905",
+        "apptCount": 70,
+        "reservedCount": 3,
+        "remainCount": 67,
+        "weekDay": "周五",
+        "apptShowType": "2",
+        "version": "20231214160503525",
+        "wareId": "439F42CDA4024D9B843DF43E14897EA8",
+        "showEndTime": "2015",
+        "checkTicketStartTime": "1805",
+        "checkTicketEndTime": "1910",
+        "auditState": "1"
+    }
+]
+```
 ### 编写脚本思路
 
-基于抓包数据的分析，我设计了一个简单而高效的脚本思路。通过使用华为云函数部署一个脚本，配置定时器发送请求，遍历返回的数据，判断班次（showTime）是否为19:05，并检查余票数量（remainCount）是否大于0。如果满足条件，通过推送加发送微信通知到我的微信。
+基于抓包数据的分析，我设计了一个简单的脚本思路。通过使用华为云函数(免费白嫖)部署一个脚本，配置定时器发送请求，遍历返回的数据，判断班次（showTime）是否为19:05，并检查余票数量（remainCount）是否大于0。如果满足条件，通过推送加(免费白嫖)发送微信通知到我的微信。
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/202312142334996.png)
 
 ### 创建指令
