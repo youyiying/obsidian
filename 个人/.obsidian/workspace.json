@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#＃响应内容：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,10 +169,10 @@
   },
   "active": "cdfd4ccb9281898a",
   "lastOpenFiles": [
+    "微鲸助手开发记录.md",
     "Chatgpt提问模板.md",
     "使用AI编写自动化余票查询脚本.md",
     "Github Copilot使用教程.md",
-    "微鲸助手开发记录.md",
     "微鲸助手开发记录 - 副本.md",
     "未命名.canvas",
     "2023-12-12.md",
