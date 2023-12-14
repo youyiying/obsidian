@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatgpt提问模板.md",
+                "file": "使用AI编写自动化余票查询脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatgpt提问模板.md",
+                "file": "使用AI编写自动化余票查询脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatgpt提问模板.md"
+                "file": "使用AI编写自动化余票查询脚本.md"
               }
             }
           },
@@ -169,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "757f9e10a5f85ac3",
+  "active": "cdfd4ccb9281898a",
   "lastOpenFiles": [
-    "使用AI编写自动化余票查询脚本.md",
     "Chatgpt提问模板.md",
+    "使用AI编写自动化余票查询脚本.md",
     "Github Copilot使用教程.md",
     "微鲸助手开发记录.md",
     "微鲸助手开发记录 - 副本.md",

@@ -45,7 +45,7 @@ http://www.pushplus.plus/send
 ```json
  {
 	'token': 'b3ebe73619e5428a9c55fc4767b813f4',
-	'title': '鹭江夜游余票通知',
+	'title': '余票通知',
 	'content': '班次{showTime} 剩余票数: {remainCount}<br />',
 	'template': 'html'
 }
@@ -57,5 +57,5 @@ def my_initializer(context):
 ```
 # 参考华为云函数模板编写python脚本
 1. 发送查询请求
-2. 将响应内容进行jie'xi收到的JSON格式的响应进行遍历
+2. 将响应内容进行解析遍历
 3. 从每个项目中提取信息showTime、remainCount，进行条件判断，检查showTime是否为'1940'，以及是否有余票（remainCount > 0），如果条件满足，发送到通知。
