@@ -6,6 +6,7 @@
 ### 准备工作
 
 为了实现这个自动查询的脚本，需要使用Proxypin抓包工具，获取所需数据。打开厦门旅游年卡小程序，进行了一次请求包的抓取，成功地获取了一份请求包的详细内容。
+![632shots_so.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/202312150000181.png)
 
 ### 分析抓包数据
 
