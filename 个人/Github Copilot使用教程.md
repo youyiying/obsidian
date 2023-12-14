@@ -22,7 +22,7 @@ GitHub Copilot 目前只支持 Visual Studio Code 编辑器。要使用 GitHub C
 | Esc            | 拒绝建议                          |
 | Ctrl + Enter   | 会打开一个单独的面板,展示10个建议 |
 | Alt/Option + ] | 下一条建议                        |
-| Alt/Option + [ | 上一条建议                        |
+| Alt/Option + \[ | 上一条建议                        |
 | Alt/Option + \ | 触发行内建议                      | 
 | cmd + ->       | 逐个单词提示确认                  |
 
