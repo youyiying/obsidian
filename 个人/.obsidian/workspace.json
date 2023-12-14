@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微鲸助手开发记录.md",
+                "file": "Github Copilot使用教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微鲸助手开发记录.md",
+                "file": "Github Copilot使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微鲸助手开发记录.md",
+                "file": "Github Copilot使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微鲸助手开发记录.md"
+                "file": "Github Copilot使用教程.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   "active": "cdfd4ccb9281898a",
   "lastOpenFiles": [
     "微鲸助手开发记录.md",
-    "微鲸助手开发记录 - 副本.md",
+    "Github Copilot使用教程.md",
     "未命名.md",
+    "微鲸助手开发记录 - 副本.md",
     "未命名.canvas",
     "2023-12-12.md",
     "未命名"
