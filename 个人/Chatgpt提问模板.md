@@ -2,9 +2,11 @@
 严格按照步骤编写，不要遗漏任何请求参数，使用中文输出结果
 # 查询接口
 ## 请求命令
+``` bash
 curl -X POST 'https://www.niankawang.com/ec/router' \
    --data '_method=travel.ec.wareApptShow.list.get&_v=1.0&_appKey=000001&_format=json&_locale=zh&_timestamp=20231214210153&_sessionId=wx_VISITOR_oXYF65b34VQ7W3Veiq4bGaLQKqTI&wxAppId=wx981dad825bf3014c&wxAgentId=&ownerId=wx6f7350d9e062d8c6&wxType=mini&personType=VISITOR&sceneId=DF3810BA57DE42DEA1953107F01F937A&programmeId=64D3205C266846149C11DEE4A9D6CAC5&apptDate=&lessApptDate=20231220&excludeDay=20231214&wareId=439F42CDA4024D9B843DF43E14897EA8&_sign=0B596A176245754231477FE2BA8A3A3C1EF70591' \
   --compressed
+```
 ## 响应内容：
 ```json
 [
@@ -48,7 +50,12 @@ http://www.pushplus.plus/send
 	'template': 'html'
 }
 ```
-# 使用可以在华为云函数运行的python脚本
+# 华为云函数模板
+``` python
+def my_initializer(context):
+    print 'hello world!'
+```
+# 参考华为云函数模板编写python脚本
 1. 发送查询请求
 2. 将收到的JSON格式的响应进行遍历
 3. 从每个项目中提取信息showTime、remainCount，进行条件判断，检查showTime是否为'1940'，以及是否有余票（remainCount > 0），如果条件满足，发送到通知。
