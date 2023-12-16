@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用AI编写自动化余票查询脚本.md",
+                "file": "使用AI编写自动化查询余票脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用AI编写自动化余票查询脚本.md",
+                "file": "使用AI编写自动化查询余票脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用AI编写自动化余票查询脚本.md",
+                "file": "使用AI编写自动化查询余票脚本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用AI编写自动化余票查询脚本.md",
+                "file": "使用AI编写自动化查询余票脚本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用AI编写自动化余票查询脚本.md"
+                "file": "使用AI编写自动化查询余票脚本.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "lastOpenFiles": [
     "微鲸助手开发记录.md",
     "Chatgpt提问模板.md",
-    "使用AI编写自动化余票查询脚本.md",
+    "使用AI编写自动化查询余票脚本.md",
     "Github Copilot使用教程.md",
     "微鲸助手开发记录 - 副本.md",
     "未命名.canvas",
