@@ -6,9 +6,14 @@
 ### 准备工作
 
 为了实现这个自动查询的脚本，需要使用Proxypin抓包工具，获取所需数据。打开厦门旅游年卡小程序，进行了一次请求包的抓取，成功地获取了一份请求包的详细内容。
-这里我们导出cURL命令格式
 ![抓包详情](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/202312150000181.png)
 
+这里我们导出cURL命令格式
+``` bash
+curl -X POST 'https://www.niankawang.com/ec/router' \
+   --data '_method=travel.ec.wareApptShow.list.get&_v=1.0' \
+  --compressed
+```
 ### 分析抓包数据
 
 通过Proxypin抓包工具获取到的数据包含了大量信息，但我们主要关注的是JSON数据。其中，关键字段如班次（showTime）、余票数量（remainCount），将成为我们编写脚本的基础数据。
