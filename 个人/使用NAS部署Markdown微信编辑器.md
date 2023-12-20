@@ -1,6 +1,6 @@
-随着Markdown格式的普及，越来越多的编辑器应运而生，满足了各种不同场景下的需求。今天，我将向大家介绍如何使用NAS的Docker部署一款Markdown微信编辑器，让您的Markdown编辑更加便捷高效。
-# 背景介绍
-最近，我在GitHub上发现了一个开源的Markdown微信编辑器项目，它可以让用户在微信中直接编辑Markdown文档。作为一个NAS用户，我一直在寻找合适的Docker应用来充分利用NAS的闲置资源。这次，我决定将这款Markdown微信编辑器部署到NAS的Docker中，实现Markdown编辑的私有化部署。
+
+# 背景
+晚上我在GitHub上逛的时候，看到一个Markdown微信编辑器开源项目，它可以使用Markdown编写微信公众号文章。大概看了一下支持多种方式部署，看到Docker时，。这次，我决定将这款Markdown微信编辑器部署到NAS的Docker中，实现Markdown编辑的私有化部署。
 # 部署步骤
 ## 准备工作
 在开始部署之前，请确保您的NAS已经安装了Docker。如果没有，请先在NAS中安装Docker。
