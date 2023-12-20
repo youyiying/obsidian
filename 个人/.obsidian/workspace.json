@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#获取Markdown微信编辑器镜像",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f5a158d814c0981",
+  "active": "127008df65de5aaf",
   "lastOpenFiles": [
     "2023-12-20.md",
     "使用NAS部署Markdown微信编辑器.md",
