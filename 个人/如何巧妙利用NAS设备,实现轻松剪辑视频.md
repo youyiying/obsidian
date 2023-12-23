@@ -43,9 +43,12 @@
 5. 映射完毕后，我的电脑就可以显示NAS设备的硬盘了
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/074fd8163d87cf94bf8ab494d0cdaa96.png)
 
+6. 现在随便找个大文件来测试传输速度，速度直接达到了281MB/秒，拉满
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/c883cb0e3acaa1c6d82e6c5e9648e805.png)
 
 
-现在我们打开剪影专业版来测试视频素材的拉取速度。由于用Samba 3.0协议，传输速度达到了280M/S，直接跑满，这速度应该就能在电脑上剪辑视频了。
+
+打开剪影专业版来测试视频素材的拉取速度。
 这下好了，我终于能用电脑痛痛快快地剪辑视频了。
 
 这次经历让我明白，有时候看起来特别麻烦的事儿，其实只要咱们巧妙运用身边的资源，稍微想想办法，日子就能过精彩。
