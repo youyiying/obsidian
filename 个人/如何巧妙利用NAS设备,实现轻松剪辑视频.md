@@ -26,19 +26,22 @@
 
 接下来，把NAS设备挪到电脑桌这里。NAS设备没有自带无线网卡，没办法直接连接WIFI，还需要额外购买官方指定型号的无线网卡。为了省钱，我找了家里闲置的路由器搞了个无线信号扩展，再把网线接到NAS设备上，完美搞定！
 
-搞定一通之后，接下来准备开始配置
-1. 设置网络模式
+接下来做一些简单的配置
+1. 打开绿联云 DX4600客户端进行设置，设备管理-网络模式-桥接模式
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/47b6c59b2f1d6b2fd5d66ea39e079a1f.png)
 
-2. 开启DX4600的Samba协议
+2. 在网络服务-配置账号和密码，之后开启Samba-高级设置选择3.0
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/83f2e5bcc46e8c80fb3739fccdb91d2d.png)
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/93b8e6ae39fb71a3cb9bcdc7e745e33c.png)
 
 3. 电脑开启网络发现配置
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/e0d99adc7901b4a74a00da478b796b99.png)
 
 4. 把NAS的硬盘进行网络映射
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/102ce8ad6bb12dabd152b84ae5d29deb.png)
-5. 映射完毕后，我的电脑就可以显示
+5. 映射完毕后，我的电脑就可以显示NAS上面的
+   ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/074fd8163d87cf94bf8ab494d0cdaa96.png)
+
 
 
 测试在电脑上拉取视频素材的速度。用Samba 3.0协议，传输速度达到了280M/S，直接跑满，这速度应该就能在电脑上剪辑视频了。
