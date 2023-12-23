@@ -28,12 +28,17 @@
 
 搞定一通之后，接下来准备开始配置
 1. 设置网络模式
+   ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/47b6c59b2f1d6b2fd5d66ea39e079a1f.png)
+
 2. 开启DX4600的Samba协议
+   ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/83f2e5bcc46e8c80fb3739fccdb91d2d.png)
+
 3. 电脑开启网络发现配置
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/e0d99adc7901b4a74a00da478b796b99.png)
 
 4. 把NAS的硬盘进行网络映射
-
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/102ce8ad6bb12dabd152b84ae5d29deb.png)
+5. 映射完毕后，我的电脑就可以显示
 
 
 测试在电脑上拉取视频素材的速度。用Samba 3.0协议，传输速度达到了280M/S，直接跑满，这速度应该就能在电脑上剪辑视频了。
