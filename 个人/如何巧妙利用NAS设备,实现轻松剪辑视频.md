@@ -27,7 +27,12 @@
 接下来，把NAS设备挪到电脑桌这里。NAS设备没有自带无线网卡，没办法直接连接WIFI，还需要额外购买官方指定型号的无线网卡。为了省钱，我找了家里闲置的路由器搞了个无线信号扩展，再把网线接到NAS设备上，完美搞定！
 
 搞定一通之后，接下来准备开始配置
-1.
+1. 设置网络模式
+2. 开启DX4600的Samba协议
+3. 电脑开启网络发现配置
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/e0d99adc7901b4a74a00da478b796b99.png)
+
+4. 把NAS的硬盘进行网络映射
 
 
 
