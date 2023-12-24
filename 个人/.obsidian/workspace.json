@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-20.md",
+                "file": "Markdown 语法全指南.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github Copilot使用教程.md",
+                "file": "2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github Copilot使用教程.md",
+                "file": "2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github Copilot使用教程.md",
+                "file": "2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github Copilot使用教程.md"
+                "file": "2023-12-24.md"
               }
             }
           },
@@ -194,18 +194,19 @@
   },
   "active": "5f5a158d814c0981",
   "lastOpenFiles": [
-    "2023-12-16.md",
-    "2023-12-17.md",
-    "2023-12-20.md",
-    "Chatgpt提问模板.md",
+    "Markdown 语法全指南.md",
+    "2023-12-24.md",
+    "提示词/余票查询助手.md",
+    "提示词/Python开发者助理.md",
+    "提示词",
     "Github Copilot使用教程.md",
+    "Chatgpt提问模板.md",
     "【瞎折腾系列】使用NAS部署Markdown微信编辑器.md",
     "【瞎折腾系列】微鲸电视遥控App开发记录.md",
     "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
     "【瞎折腾系列】如何利用NAS在电脑端实现视频剪辑.md",
     "微鲸助手开发记录 - 副本.md",
     "未命名.canvas",
-    "2023-12-12.md",
-    "未命名"
+    "2023-12-12.md"
   ]
 }
