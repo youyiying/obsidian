@@ -45,9 +45,6 @@
 
 6. 现在随便找个大文件来测试传输速度，速度直接达到了281MB/秒，拉满
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/c883cb0e3acaa1c6d82e6c5e9648e805.png)
-
-
-
 打开剪影专业版来测试视频素材的拉取速度。
 这下好了，我终于能用电脑痛痛快快地剪辑视频了。
 
