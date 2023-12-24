@@ -27,6 +27,7 @@
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/d3c3123365ec81b97d3ad39732d10cf8.png)
 
 9. 进入到**实名登记**界面
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/0e03aa627b349c6dc7d47410f999af4c.png)
 
 10. 在**生产厂商名称**这栏，点击**放大镜**，勾选**深圳市大疆创新科技有限公司**，点击**选择**
 
@@ -37,5 +38,8 @@
 13. 在**使用用途**这栏，这里只勾选**娱乐**、**航拍**两个选项
 
 14. 上传**无人机正面照**和**序列号照片**
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/0be54572a38dc1923c221fea279d5784.png)
 
 15. 勾选**声明**，点击**完成注册**即可
+
+
