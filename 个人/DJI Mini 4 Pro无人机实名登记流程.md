@@ -2,7 +2,7 @@
 
 根据相关规定，自**2024年1月1日**起，非实名登记将面临罚款。作为积极配合的市民，当然是马上为无人机进行登记了。以下是详细的登记流程。
 
-虽然可以用DJI Fly App直接登记，却遇到了一些问题，相信大疆后续能解决。暂时建议使用电脑进行实名登记。
+虽然可以用DJI Fly App直接登记，却遇到了一些问题，相信大疆后续会解决。暂时建议使用电脑进行实名登记。
 
 1. 访问[民用无人驾驶航空器综合管理平台(UOM)](https://uom.caac.gov.cn/)
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/814d7fd3208daad02362bd742aed3fb1.png)
@@ -41,5 +41,8 @@
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/0be54572a38dc1923c221fea279d5784.png)
 
 15. 勾选**声明**，点击**完成注册**即可
+16. 打开DJI Fly App查看飞机实名登记状态，变成了已登记。
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/77d7025465f8a652207b10cf49650187.png)
 
 
+好了，操作很简单，几分钟就登记好了。以后可以放心飞了。
