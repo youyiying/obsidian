@@ -40,29 +40,17 @@ GitHub Copilot 目前只支持 Visual Studio Code 编辑器。要使用 GitHub C
 ## Visual Studio Code命令
 
 \- `@workspace`
-
 ​	\- 询问关于当前工作空间中的文件的问题
-
 \- `/explain` - 解释所选代码的工作原理
-
 \- `/tests` - 为所选代码生成单元测试
-
 \- `/fix` - 为所选代码中的问题提出修复建议
-
 \- `/new` - 构建新的工作空间脚手架代码
-
 \- `/newNotebook` - 创建新的Jupyter Notebook
-
 \- `/terminal` - 询问如何在终端执行某项操作
-
 \- `@vscode`
-
 ​	\- 询问关于VS Code的问题
-
 ​	\- `/api` - 询问关于VS Code扩展开发的问题
-
 ## Visual Studio命令
-
 - /help - 获取Copilot聊天帮助
 - /explain - 解释代码
 - /doc - 为该符号添加文档注释
