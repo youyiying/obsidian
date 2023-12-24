@@ -4,7 +4,7 @@
 
 虽然可以用DJI Fly App直接登记，却遇到了一些问题，相信大疆后续会解决。暂时建议使用电脑进行实名登记。
 
-1. 访问[民用无人驾驶航空器综合管理平台(UOM)](https://uom.caac.gov.cn/)
+1. 访问**民用无人驾驶航空器综合管理平台(UOM)**:[https://uom.caac.gov.cn/](https://uom.caac.gov.cn/)
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/814d7fd3208daad02362bd742aed3fb1.png)
 
 2. 点击**免费注册**
@@ -33,7 +33,7 @@
 
 11. 在**产品型号**这栏，点击**放大镜**，勾选**DJ Mini 4 Pro**，点击**选择**
 
-12. 在**产品序列号**这栏可以从DJI Fly App中的**设备管理**或者无人机**电池仓**中获取
+12. 在**产品序列号**这栏可以从DJI Fly App中的**设备管理**或者无人机**电池仓内侧贴纸**中获取
 
 13. 在**使用用途**这栏，这里只勾选**娱乐**、**航拍**两个选项
 
