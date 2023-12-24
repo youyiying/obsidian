@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【小工具】使用AI编写自动化查询余票脚本.md",
+                "file": "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "如何巧妙利用NAS设备,实现轻松剪辑视频.md",
+                "file": "Chatgpt提问模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#获取Markdown微信编辑器镜像",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何巧妙利用NAS设备,实现轻松剪辑视频.md",
+                "file": "Chatgpt提问模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何巧妙利用NAS设备,实现轻松剪辑视频.md",
+                "file": "Chatgpt提问模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何巧妙利用NAS设备,实现轻松剪辑视频.md"
+                "file": "Chatgpt提问模板.md"
               }
             }
           },
@@ -195,15 +194,15 @@
   },
   "active": "5f5a158d814c0981",
   "lastOpenFiles": [
-    "【小工具】使用AI编写自动化查询余票脚本.md",
-    "如何巧妙利用NAS设备,实现轻松剪辑视频.md",
+    "Github Copilot使用教程.md",
+    "【瞎折腾系列】使用NAS部署Markdown微信编辑器.md",
+    "【瞎折腾系列】微鲸电视遥控App开发记录.md",
+    "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
+    "【瞎折腾系列】如何利用NAS在电脑端实现视频剪辑.md",
     "2023-12-20.md",
-    "使用NAS部署Markdown微信编辑器.md",
     "Chatgpt提问模板.md",
     "2023-12-17.md",
     "2023-12-16.md",
-    "【小工具】微鲸电视遥控App开发记录.md",
-    "Github Copilot使用教程.md",
     "微鲸助手开发记录 - 副本.md",
     "未命名.canvas",
     "2023-12-12.md",
