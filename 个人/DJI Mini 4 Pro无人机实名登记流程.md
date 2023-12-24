@@ -16,12 +16,15 @@
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/fa719287e16da7a0048696677cf8cc21.png)
 
 5. 完善**账号信息**，点击**下一步**，这里会弹出**人脸识别认证**，需要微信扫描二维码进行人脸识别认证
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/3c41e2f9db267a7f84d552cbaab39f58.png)
 
 6. 注册完成后，使用**手机号**或**账号**登录
 
 7. 进入**首页**-**快捷入口**-**实名登记**-**注册品牌无人机**
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/b2fc575b2fb4e397511a1dadb1b4b227.png)
 
 8. 显示个人信息，点击**下一步**，这里也需要进行**人脸识别认证**
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/d3c3123365ec81b97d3ad39732d10cf8.png)
 
 9. 进入到**实名登记**界面
 
