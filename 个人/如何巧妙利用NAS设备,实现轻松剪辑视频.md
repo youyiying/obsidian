@@ -48,8 +48,9 @@
 5. 映射完毕后，在我的电脑就可以显示 NAS 设备的硬盘了
    ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/074fd8163d87cf94bf8ab494d0cdaa96.png)
 
-6. 现在随便找个大文件来测试传输速度，速度直接达到了 281MB/秒，拉满
-   ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/c883cb0e3acaa1c6d82e6c5e9648e805.png)
+6. 现在随便找个大文件来测试传输速度，速度直接达到了 280MB/秒，拉满
+![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/09645eabdcde5919b62cd7b1372dc824.gif)
+
 # 测试
 打开剪影专业版来测试视频素材的拉取速度。
 这下好了，我终于能用电脑痛痛快快地剪辑视频了。
