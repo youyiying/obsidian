@@ -45,4 +45,4 @@
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/77d7025465f8a652207b10cf49650187.png)
 
 
-好了，操作很简单，几分钟就登记好了。以后可以放心飞了。
+好了，操作很简单，几分钟就登记好了，以后可以放心飞了。
