@@ -43,7 +43,8 @@
    ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/e0d99adc7901b4a74a00da478b796b99.png)
 
 4. 打开电脑资源管理器-网络，就可以发现 NAS 设备，点击文件夹右键进行映射网络驱动器
-   ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/102ce8ad6bb12dabd152b84ae5d29deb.png)
+   ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/22a672a78ad0922c34d8d27be2c54ae5.png)
+
 5. 映射完毕后，在我的电脑就可以显示 NAS 设备的硬盘了
    ![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/074fd8163d87cf94bf8ab494d0cdaa96.png)
 
