@@ -30,7 +30,7 @@
 1. 打开绿联云 DX4600客户端进行设置，设备管理-网络模式-桥接模式
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/47b6c59b2f1d6b2fd5d66ea39e079a1f.png)
 
-2. 在网络服务-配置账号和密码，之后开启Samba-高级设置选择3.0
+2. 在网络服务-配置账号和密码，之后开启Samba-高级设置选择SMB3.0
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/5bb4a3a926803c3013e4bd4444a5b76f.png)
    ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/83f2e5bcc46e8c80fb3739fccdb91d2d.png)
 ![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/93b8e6ae39fb71a3cb9bcdc7e745e33c.png)
