@@ -5,12 +5,15 @@
 虽然可以用DJI Fly App直接登记，却遇到了一些问题，相信大疆后续能解决。暂时建议使用电脑进行实名登记。
 
 1. 访问[民用无人驾驶航空器综合管理平台(UOM)](https://uom.caac.gov.cn/)
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/814d7fd3208daad02362bd742aed3fb1.png)
 
 2. 点击**免费注册**
 
 3. 勾选**我已阅读并接受上述内容**，点击**下一步**
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/4817833b793b4b4ede23224cea36d2f4.png)
 
 4. 用户类型选择**个人**，填写**登录信息**，点击**下一步**
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/fa719287e16da7a0048696677cf8cc21.png)
 
 5. 完善**账号信息**，点击**下一步**，这里会弹出**人脸识别认证**，需要微信扫描二维码进行人脸识别认证
 
