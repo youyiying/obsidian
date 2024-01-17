@@ -4,15 +4,17 @@
 ### 初识RPA
 
 在深入了解**影刀RPA**之前，我对**RPA**的概念知之甚少。RPA，即**Robotic Process Automation（机器人流程自动化）**，是一种使用软件机器人（或机器人）模拟并集成人类在数字系统中交互以执行业务流程的技术。它可以在不需要大量自定义编码的情况下，自动执行高重复性、规则性的任务。
+![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/ce56f168cb715a79cb9d6c7de0f8f290.png)
 
 ### 开始学习
 
 带着对**RPA**的好奇，我注册了**影刀RPA**的账号，并下载安装了软件。一开始，我遵循了**官方教程**的指引，这些教程设计得非常巧妙，采用了**闯关模式**，让学习变得既有趣又有挑战性。
-![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/ce04da92442e0ca69628b682ce25549a.png)
+![](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/ce04da92442e0ca69628b682ce25549a.png)
 
 ### 学习体验
 
 教程的内容涵盖了从基础概念到高级应用的各个方面。有些关卡仅通过观看视频就能轻松通过，而另一些则需要我看完视频后回答问题，甚至进行实战操作提交作业。这种循序渐进的学习方式非常适合像我这样的新手。
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/737785947f8db919f1f7945c61950dd7.png)
 
 ### 备考和认证
 
@@ -21,6 +23,7 @@
 ### 成果展示
 
 由于认证考试是周末晚上提交的，周一我收到了考试通过的短信。登录官网查看，我的认证信息赫然在列，这让我感到非常自豪。通过这次学习，我不仅掌握了一项**新技能**，还获得了**官方认证**。
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/5f32e609f78d4c4eee8b9b6009048457.png)
 
 ### 结尾
 
