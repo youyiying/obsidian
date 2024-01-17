@@ -8,6 +8,7 @@
 ### 开始学习
 
 带着对**RPA**的好奇，我注册了**影刀RPA**的账号，并下载安装了软件。一开始，我遵循了**官方教程**的指引，这些教程设计得非常巧妙，采用了**闯关模式**，让学习变得既有趣又有挑战性。
+![image.png](https://cdn.jsdelivr.net/gh/youyiying/blogs@master/images/ce04da92442e0ca69628b682ce25549a.png)
 
 ### 学习体验
 
