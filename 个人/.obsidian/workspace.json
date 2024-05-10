@@ -18,42 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8f53273a1d861807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown 语法全指南.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f5a158d814c0981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "提示词/AI小说提示词.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "757f9e10a5f85ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chatgpt提问模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -105,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a68a000646188810",
@@ -174,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdfd4ccb9281898a",
+  "active": "5b96b204fa748c0d",
   "lastOpenFiles": [
     "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
     "提示词/AI小说提示词.md",
