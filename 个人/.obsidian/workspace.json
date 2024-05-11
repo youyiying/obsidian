@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "258c10b22be412c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b96b204fa748c0d",
+  "active": "258c10b22be412c0",
   "lastOpenFiles": [
     "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
     "提示词/AI小说提示词.md",
