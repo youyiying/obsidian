@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cebdd256297e8c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "提示词/AI小说提示词.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "提示词/AI小说提示词.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "提示词/AI小说提示词.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -157,10 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdfd4ccb9281898a",
+  "active": "cebdd256297e8c56",
   "lastOpenFiles": [
-    "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
+    "未命名.md",
     "提示词/AI小说提示词.md",
+    "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
     "提示词/余票查询助手.md",
     "提示词/Python开发者助理.md",
     "我的RPA学习之旅：从新手到老司机.md",
