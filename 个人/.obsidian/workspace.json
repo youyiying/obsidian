@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "提示词/AI小说提示词.md",
+                "file": "短篇小说细纲生成器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "提示词/AI小说提示词.md",
+                "file": "短篇小说细纲生成器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "提示词/AI小说提示词.md"
+                "file": "短篇小说细纲生成器.md"
               }
             }
           },
@@ -193,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdfd4ccb9281898a",
+  "active": "b447864134ebb74b",
   "lastOpenFiles": [
-    "短篇小说细纲生成器.md",
     "提示词/AI小说提示词.md",
+    "短篇小说细纲生成器.md",
     "幻听之秘.md",
     "未命名.md",
     "【瞎折腾系列】使用AI编写自动化查询余票脚本.md",
